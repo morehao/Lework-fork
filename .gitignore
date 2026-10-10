@@ -74,4 +74,5 @@ deployments/dev/worker.config.yaml
 deployments/helm/leros/values.yaml
 .opencode
 .cursor
+.dsh/
 backend/leros
